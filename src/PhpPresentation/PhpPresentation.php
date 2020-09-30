@@ -204,7 +204,7 @@ class PhpPresentation
     }
     
     /**
-     * Add slide
+     * Add prepend slide
      *
      * @param  \PhpOffice\PhpPresentation\Slide $slide
      * @throws \Exception
